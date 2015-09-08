@@ -2,7 +2,7 @@
 <html>
 
 <head>
-		<meta charset="utf-8" > 
+		<meta charset="utf-8"> 
 		<title>FED opdr 1. Artikel</title>
 </head>
 
@@ -49,14 +49,14 @@
 
 			<p>Mocht je als aankomend student meer willen weten of contact op willen nemen met een afgestudeerde studenten? Neem <a href="">contact</a> met ons op.</p>
 
-			<p>Uitstroomberoepen:
+			<p>Uitstroomberoepen:</p>
 			<ol>
 				<li>1. Frontenddeveloper <a href="">beroepen#frontenddeveloper</a></li>
 				<li>2. Visual designer <a href="">beroep #visual designer</a></li>
 				<li>3. Interactiondesigner <a href="">beroep#interactiondesigner</a></li>
 				<li>4. Content manager <a href="">beroep #content manager</a></li>
 				<li>5. Projectmanager <a href="">beroep#projectmanager</a></li>
-			</ol></p>
+			</ol>
 		</section>
 
 	</article>
